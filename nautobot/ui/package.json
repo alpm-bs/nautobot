@@ -12,7 +12,7 @@
     "prettier:fix": "prettier src --write"
   },
   "dependencies": {
-    "@graphiql/plugin-explorer": "0.1.15",
+    "@graphiql/plugin-explorer": "0.3.5",
     "@graphiql/toolkit": "^0.11.3",
     "@mdi/font": "^7.4.47",
     "@popperjs/core": "^2.11.8",
